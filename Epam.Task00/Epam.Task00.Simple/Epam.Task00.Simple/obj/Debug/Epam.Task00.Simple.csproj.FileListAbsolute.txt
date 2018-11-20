@@ -1,0 +1,7 @@
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\bin\Debug\Epam.Task00.Simple.exe.config
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\bin\Debug\Epam.Task00.Simple.exe
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\bin\Debug\Epam.Task00.Simple.pdb
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\obj\Debug\Epam.Task00.Simple.csprojResolveAssemblyReference.cache
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\obj\Debug\Epam.Task00.Simple.csproj.CoreCompileInputs.cache
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\obj\Debug\Epam.Task00.Simple.exe
+D:\EPAM\Tasks\Epam.Task00.Simple\Epam.Task00.Simple\obj\Debug\Epam.Task00.Simple.pdb
