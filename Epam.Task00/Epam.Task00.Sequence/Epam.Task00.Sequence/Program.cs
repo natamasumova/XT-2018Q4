@@ -4,21 +4,31 @@ namespace Epam.Task00.Sequence
 {
     class Program
     {
-        static string Sequence(int n)
+        static string Sequence(uint n)
         {
             string result = "";
-            for (int i = 1; i <= n; i++)
+            int i = 1;
+            while (i < n)
             {
-                result += i;
-                if (i < n) result += ", ";
+                result += i + ", ";
+                i++;
             }
+            result += n;
             return result;
         }
+        
         static void Main(string[] args)
         {
-            Console.Write("Введите N: ");
-            int N = Int32.Parse(Console.ReadLine());
-            Console.WriteLine(Sequence(N));
+            try
+            {
+                Console.Write("Enter N: ");
+                uint N = uint.Parse(Console.ReadLine());
+                Console.WriteLine(Sequence(N));
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex);
+            }
         }
     }
 }
