@@ -1,0 +1,6 @@
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\bin\Debug\Epam.Task00.Square.exe.config
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\bin\Debug\Epam.Task00.Square.exe
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\bin\Debug\Epam.Task00.Square.pdb
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\obj\Debug\Epam.Task00.Square.csproj.CoreCompileInputs.cache
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\obj\Debug\Epam.Task00.Square.exe
+D:\EPAM 2.0\Epam.Task00\Epam.Task00.Square\Epam.Task00.Square\obj\Debug\Epam.Task00.Square.pdb
