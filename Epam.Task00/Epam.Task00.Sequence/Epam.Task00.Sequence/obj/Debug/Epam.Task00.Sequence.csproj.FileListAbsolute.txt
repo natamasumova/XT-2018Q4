@@ -1,0 +1,6 @@
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\bin\Debug\Epam.Task00.Sequence.exe.config
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\bin\Debug\Epam.Task00.Sequence.exe
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\bin\Debug\Epam.Task00.Sequence.pdb
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\obj\Debug\Epam.Task00.Sequence.csproj.CoreCompileInputs.cache
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\obj\Debug\Epam.Task00.Sequence.exe
+D:\EPAM\Epam.Task00.Sequence\Epam.Task00.Sequence\obj\Debug\Epam.Task00.Sequence.pdb
