@@ -1,0 +1,6 @@
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\bin\Debug\Epam.Task1.10.exe.config
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\bin\Debug\Epam.Task1.10.exe
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\bin\Debug\Epam.Task1.10.pdb
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\obj\Debug\Epam.Task1.10.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\obj\Debug\Epam.Task1.10.exe
+D:\EPAM training\Code\Epam.Task1.10\Epam.Task1.10\obj\Debug\Epam.Task1.10.pdb
