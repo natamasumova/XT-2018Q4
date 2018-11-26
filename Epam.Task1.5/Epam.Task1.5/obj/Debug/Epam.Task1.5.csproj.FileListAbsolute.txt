@@ -1,0 +1,7 @@
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\bin\Debug\Epam.Task1.5.exe.config
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\bin\Debug\Epam.Task1.5.exe
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\bin\Debug\Epam.Task1.5.pdb
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\obj\Debug\Epam.Task1.5.csprojAssemblyReference.cache
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\obj\Debug\Epam.Task1.5.csproj.CoreCompileInputs.cache
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\obj\Debug\Epam.Task1.5.exe
+C:\Users\PrimalFixik\source\repos\Epam.Task1.5\Epam.Task1.5\obj\Debug\Epam.Task1.5.pdb
