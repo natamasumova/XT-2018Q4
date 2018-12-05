@@ -1,0 +1,7 @@
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\bin\Debug\Epam.Task2.3+2.5.exe.config
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\bin\Debug\Epam.Task2.3+2.5.exe
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\bin\Debug\Epam.Task2.3+2.5.pdb
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\obj\Debug\Epam.Task2.3+2.5.csprojAssemblyReference.cache
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\obj\Debug\Epam.Task2.3+2.5.csproj.CoreCompileInputs.cache
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\obj\Debug\Epam.Task2.3+2.5.exe
+C:\Users\PrimalFixik\source\repos\Epam.Task2.3+2.5\Epam.Task2.3+2.5\obj\Debug\Epam.Task2.3+2.5.pdb

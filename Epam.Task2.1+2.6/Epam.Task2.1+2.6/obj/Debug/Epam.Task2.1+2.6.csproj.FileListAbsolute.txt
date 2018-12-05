@@ -1,0 +1,7 @@
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\bin\Debug\Epam.Task2.1+2.6.exe.config
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\bin\Debug\Epam.Task2.1+2.6.exe
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\bin\Debug\Epam.Task2.1+2.6.pdb
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\obj\Debug\Epam.Task2.1+2.6.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\obj\Debug\Epam.Task2.1+2.6.exe
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\obj\Debug\Epam.Task2.1+2.6.pdb
+D:\EPAM training\Code\Epam.Task2\Epam.Task2.1+2.6\Epam.Task2.1+2.6\obj\Debug\Epam.Task2.1+2.6.csprojAssemblyReference.cache
