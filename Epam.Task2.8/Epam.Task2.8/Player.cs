@@ -2,11 +2,11 @@
 {
     public class Player : FieldObject
     {
-        public int Strength { get; set; }
-        public int Agility { get; set; }
-        public int Intellect { get; set; }
-        public int Stamina { get; set; }
-        public int HitPoints { get; set; }
+        private int Strength { get; set; }
+        private int Agility { get; set; }
+        private int Intellect { get; set; }
+        private int Stamina { get; set; }
+        private int HitPoints { get; set; }
 
         public Player()
         {

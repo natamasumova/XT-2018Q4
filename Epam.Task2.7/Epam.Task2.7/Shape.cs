@@ -4,8 +4,8 @@ namespace Epam.Task2._7
 {
     public abstract class Shape
     {
-        public double CenterX { get; set; }
-        public double CenterY { get; set; }
+        protected double CenterX { get; set; }
+        protected double CenterY { get; set; }
 
         public abstract double GetCenterX();
         public abstract double GetCenterY();
@@ -16,7 +16,7 @@ namespace Epam.Task2._7
         {
             return $"Center coodrinates: ({GetCenterX()}; {GetCenterY()}){Environment.NewLine}" +
                    $"Width: {GetWidth()}{Environment.NewLine}" +
-                   $"Height: {GetHeight()}";
+                   $"Height: {GetHeight()}{Environment.NewLine}";
         }
     }
 }

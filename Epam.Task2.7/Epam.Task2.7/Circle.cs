@@ -4,7 +4,7 @@ namespace Epam.Task2._7
 {
     public class Circle : Shape
     {
-        public double Radius { get; set; }
+        private double Radius { get; set; }
 
         public Circle(double radius, double centerX, double centerY)
         {

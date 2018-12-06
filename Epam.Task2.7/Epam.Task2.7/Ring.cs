@@ -4,7 +4,7 @@ namespace Epam.Task2._7
 {
     public class Ring : Round
     {
-        public double InnerRadius { get; set; }
+        private double InnerRadius { get; set; }
 
         public Ring(double radius, double innerRadius, double centerX, double centerY)
                : base (radius, centerX, centerY)

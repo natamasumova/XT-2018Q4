@@ -4,7 +4,7 @@ namespace Epam.Task2._7
 {
     public class Round : Figure
     {
-        public double Radius { get; set; }
+        protected double Radius { get; set; }
 
         public Round(double radius, double centerX, double centerY)
         {

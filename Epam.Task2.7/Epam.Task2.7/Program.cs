@@ -10,11 +10,6 @@ namespace Epam.Task2._7
             {
                 try
                 {
-                    Console.WriteLine("Enter the X center coordinate: ");
-                    double centerX = double.Parse(Console.ReadLine());
-                    Console.WriteLine("Enter the Y center coordinate: ");
-                    double centerY = double.Parse(Console.ReadLine());
-
                     Console.WriteLine("Choose your shape: ");
                     Console.WriteLine($"1 - Line{Environment.NewLine}" +
                                       $"2 - Circle{Environment.NewLine}" +
@@ -26,12 +21,26 @@ namespace Epam.Task2._7
                     {
                         case 1:
                             Console.WriteLine("Enter width: ");
-                            int lineWidth = int.Parse(Console.ReadLine());
+                            double lineWidth = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter start X coordinate: ");
+                            double startX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter start Y coordinate: ");
+                            double startY = double.Parse(Console.ReadLine());
+                            
+                            Console.WriteLine("Enter end X coordinate: ");
+                            double endX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter end Y coordinate: ");
+                            double endY = double.Parse(Console.ReadLine());
 
-                            Line line = new Line(lineWidth, centerX, centerY);
+                            Line line = new Line(lineWidth, startX, startY, endX, endY);
                             Console.WriteLine(line.ToString());
                             break;
                         case 2:
+                            Console.WriteLine("Enter the X center coordinate: ");
+                            double centerX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter the Y center coordinate: ");
+                            double centerY = double.Parse(Console.ReadLine());
+
                             Console.WriteLine("Enter radius: ");
                             int circleRadius = int.Parse(Console.ReadLine());
 
@@ -39,6 +48,11 @@ namespace Epam.Task2._7
                             Console.WriteLine(circle.ToString());
                             break;
                         case 3:
+                            Console.WriteLine("Enter the X center coordinate: ");
+                            centerX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter the Y center coordinate: ");
+                            centerY = double.Parse(Console.ReadLine());
+
                             Console.WriteLine("Enter width: ");
                             int rectangleWidth = int.Parse(Console.ReadLine());
                             Console.WriteLine("Enter height: ");
@@ -48,6 +62,11 @@ namespace Epam.Task2._7
                             Console.WriteLine(rectangle.ToString());
                             break;
                         case 4:
+                            Console.WriteLine("Enter the X center coordinate: ");
+                            centerX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter the Y center coordinate: ");
+                            centerY = double.Parse(Console.ReadLine());
+
                             Console.WriteLine("Enter radius: ");
                             int roundRadius = int.Parse(Console.ReadLine());
 
@@ -55,6 +74,11 @@ namespace Epam.Task2._7
                             Console.WriteLine(round.ToString());
                             break;
                         case 5:
+                            Console.WriteLine("Enter the X center coordinate: ");
+                            centerX = double.Parse(Console.ReadLine());
+                            Console.WriteLine("Enter the Y center coordinate: ");
+                            centerY = double.Parse(Console.ReadLine());
+
                             Console.WriteLine("Enter ring radius: ");
                             int ringRadius = int.Parse(Console.ReadLine());
                             Console.WriteLine("Enter inner radius: ");
