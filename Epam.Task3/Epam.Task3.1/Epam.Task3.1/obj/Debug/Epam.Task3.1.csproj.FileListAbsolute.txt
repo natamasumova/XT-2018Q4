@@ -1,0 +1,7 @@
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\bin\Debug\Epam.Task3.1.exe.config
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\bin\Debug\Epam.Task3.1.exe
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\bin\Debug\Epam.Task3.1.pdb
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\obj\Debug\Epam.Task3.1.csprojAssemblyReference.cache
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\obj\Debug\Epam.Task3.1.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\obj\Debug\Epam.Task3.1.exe
+D:\EPAM training\Code\Epam.Task3\Epam.Task3.1\Epam.Task3.1\obj\Debug\Epam.Task3.1.pdb
