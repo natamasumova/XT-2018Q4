@@ -1,0 +1,7 @@
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\bin\Debug\Epam.Task4.1.exe.config
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\bin\Debug\Epam.Task4.1.exe
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\bin\Debug\Epam.Task4.1.pdb
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\obj\Debug\Epam.Task4.1.csprojResolveAssemblyReference.cache
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\obj\Debug\Epam.Task4.1.csproj.CoreCompileInputs.cache
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\obj\Debug\Epam.Task4.1.exe
+D:\EPAM\Epam.Task4\Epam.Task4.1\Epam.Task4.1\obj\Debug\Epam.Task4.1.pdb
