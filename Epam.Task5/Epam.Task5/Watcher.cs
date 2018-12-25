@@ -108,7 +108,7 @@ namespace Epam.Task5
 
         private void OnRestoration()
         {
-            var restoration = new Restoration(dateTimeRestoration, 9);
+            var restoration = new Restorer(dateTimeRestoration, 9);
             // Не смог получить доступ к времени удаления в корзине решил восстонавлвивать по дате(( понимаю что не так ...
 
             Console.WriteLine();
