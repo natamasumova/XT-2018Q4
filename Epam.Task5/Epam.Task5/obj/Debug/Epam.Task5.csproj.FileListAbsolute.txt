@@ -1,0 +1,7 @@
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\bin\Debug\Epam.Task5.exe.config
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\bin\Debug\Epam.Task5.exe
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\bin\Debug\Epam.Task5.pdb
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\obj\Debug\Epam.Task5.csprojResolveAssemblyReference.cache
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\obj\Debug\Epam.Task5.csproj.CoreCompileInputs.cache
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\obj\Debug\Epam.Task5.exe
+C:\Users\КЫСЬ\source\repos\Epam.Task5\Epam.Task5\obj\Debug\Epam.Task5.pdb

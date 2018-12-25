@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Watch>
+  <Created DateTime="25.12.2018 20:50:44">
+    <NewName>Новая папка</NewName>
+    <FullInfo>
+      <Catalog>
+        <CreationTime>25.12.2018 20:50:44</CreationTime>
+        <LastAccessTime>25.12.2018 20:50:44</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:50:44</LastWriteTime>
+        <LogicalDrives>System.String[]</LogicalDrives>
+        <Name>Новая папка</Name>
+        <Root>D:\</Root>
+        <Parent>Directory</Parent>
+        <Attributes />
+        <HashCode>11454272</HashCode>
+        <FullPath>D:\Новая папка</FullPath>
+      </Catalog>
+    </FullInfo>
+    <ChangeType>Created</ChangeType>
+  </Created>
+  <Renamed DateTime="25.12.2018 20:50:47">
+    <OldName>Новая папка</OldName>
+    <NewName>AYNANE</NewName>
+    <FullInfo>
+      <Catalog>
+        <CreationTime>25.12.2018 20:50:44</CreationTime>
+        <LastAccessTime>25.12.2018 20:50:44</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:50:44</LastWriteTime>
+        <LogicalDrives>System.String[]</LogicalDrives>
+        <Name>AYNANE</Name>
+        <Root>D:\</Root>
+        <Parent>Directory</Parent>
+        <Attributes />
+        <HashCode>6044116</HashCode>
+        <FullPath>D:\AYNANE</FullPath>
+      </Catalog>
+    </FullInfo>
+    <ChangeType>Renamed</ChangeType>
+  </Renamed>
+  <Changed DateTime="25.12.2018 20:50:56">
+    <NewName>AYNANE</NewName>
+    <FullInfo>
+      <Catalog>
+        <CreationTime>25.12.2018 20:50:44</CreationTime>
+        <LastAccessTime>25.12.2018 20:50:56</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:50:56</LastWriteTime>
+        <LogicalDrives>System.String[]</LogicalDrives>
+        <Name>AYNANE</Name>
+        <Root>D:\</Root>
+        <Parent>Directory</Parent>
+        <Attributes />
+        <HashCode>59817589</HashCode>
+        <FullPath>D:\AYNANE</FullPath>
+      </Catalog>
+    </FullInfo>
+    <ChangeType>Changed</ChangeType>
+  </Changed>
+  <Changed DateTime="25.12.2018 20:50:58">
+    <NewName>AYNANE</NewName>
+    <FullInfo>
+      <Catalog>
+        <CreationTime>25.12.2018 20:50:44</CreationTime>
+        <LastAccessTime>25.12.2018 20:50:58</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:50:58</LastWriteTime>
+        <LogicalDrives>System.String[]</LogicalDrives>
+        <Name>AYNANE</Name>
+        <Root>D:\</Root>
+        <Parent>Directory</Parent>
+        <Attributes />
+        <HashCode>48209832</HashCode>
+        <FullPath>D:\AYNANE</FullPath>
+      </Catalog>
+    </FullInfo>
+    <ChangeType>Changed</ChangeType>
+  </Changed>
+  <Changed DateTime="25.12.2018 20:51:21">
+    <NewName>AYNANE</NewName>
+    <FullInfo>
+      <Catalog>
+        <CreationTime>25.12.2018 20:50:44</CreationTime>
+        <LastAccessTime>25.12.2018 20:51:21</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:51:21</LastWriteTime>
+        <LogicalDrives>System.String[]</LogicalDrives>
+        <Name>AYNANE</Name>
+        <Root>D:\</Root>
+        <Parent>Directory</Parent>
+        <Attributes />
+        <HashCode>5773521</HashCode>
+        <FullPath>D:\AYNANE</FullPath>
+      </Catalog>
+    </FullInfo>
+    <ChangeType>Changed</ChangeType>
+  </Changed>
+  <Deleted DateTime="25.12.2018 20:51:29">
+    <NewName>AYNANE</NewName>
+    <FullInfo>
+      <File />
+    </FullInfo>
+    <ChangeType>Deleted</ChangeType>
+  </Deleted>
+  <Created DateTime="25.12.2018 20:51:40">
+    <NewName>Новый текстовый документ.txt</NewName>
+    <FullInfo>
+      <File>
+        <CreationTime>25.12.2018 20:51:40</CreationTime>
+        <LastAccessTime>25.12.2018 20:51:40</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:51:40</LastWriteTime>
+        <Extension>.txt</Extension>
+        <IsReadOnly>False</IsReadOnly>
+        <Length>0</Length>
+        <FullPath>D:\Новый текстовый документ.txt</FullPath>
+      </File>
+    </FullInfo>
+    <ChangeType>Created</ChangeType>
+  </Created>
+  <Renamed DateTime="25.12.2018 20:51:46">
+    <OldName>Новый текстовый документ.txt</OldName>
+    <NewName>sdvsdag.txt</NewName>
+    <FullInfo>
+      <File>
+        <CreationTime>25.12.2018 20:51:40</CreationTime>
+        <LastAccessTime>25.12.2018 20:51:40</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:51:40</LastWriteTime>
+        <Extension>.txt</Extension>
+        <IsReadOnly>False</IsReadOnly>
+        <Length>0</Length>
+        <FullPath>D:\sdvsdag.txt</FullPath>
+      </File>
+    </FullInfo>
+    <ChangeType>Renamed</ChangeType>
+  </Renamed>
+  <Changed DateTime="25.12.2018 20:51:52">
+    <NewName>sdvsdag.txt</NewName>
+    <FullInfo>
+      <File>
+        <CreationTime>25.12.2018 20:51:40</CreationTime>
+        <LastAccessTime>25.12.2018 20:51:40</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:51:52</LastWriteTime>
+        <Extension>.txt</Extension>
+        <IsReadOnly>False</IsReadOnly>
+        <Length>7</Length>
+        <FullPath>D:\sdvsdag.txt</FullPath>
+      </File>
+    </FullInfo>
+    <ChangeType>Changed</ChangeType>
+  </Changed>
+  <Changed DateTime="25.12.2018 20:51:52">
+    <NewName>sdvsdag.txt</NewName>
+    <FullInfo>
+      <File>
+        <CreationTime>25.12.2018 20:51:40</CreationTime>
+        <LastAccessTime>25.12.2018 20:51:40</LastAccessTime>
+        <LastWriteTime>25.12.2018 20:51:52</LastWriteTime>
+        <Extension>.txt</Extension>
+        <IsReadOnly>False</IsReadOnly>
+        <Length>7</Length>
+        <FullPath>D:\sdvsdag.txt</FullPath>
+      </File>
+    </FullInfo>
+    <ChangeType>Changed</ChangeType>
+  </Changed>
+  <Deleted DateTime="25.12.2018 20:51:56">
+    <NewName>sdvsdag.txt</NewName>
+    <FullInfo>
+      <File />
+    </FullInfo>
+    <ChangeType>Deleted</ChangeType>
+  </Deleted>
+</Watch>
