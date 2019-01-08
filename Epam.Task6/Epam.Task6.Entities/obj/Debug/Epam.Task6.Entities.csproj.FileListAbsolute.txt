@@ -1,0 +1,6 @@
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\bin\Debug\Epam.Task6.Entities.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\bin\Debug\Epam.Task6.Entities.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\obj\Debug\Epam.Task6.Entities.csprojAssemblyReference.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\obj\Debug\Epam.Task6.Entities.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\obj\Debug\Epam.Task6.Entities.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.Entities\obj\Debug\Epam.Task6.Entities.pdb

@@ -1,0 +1,9 @@
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\bin\Debug\Epam.Task6.LogicContracts.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\bin\Debug\Epam.Task6.LogicContracts.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\bin\Debug\Epam.Task6.Entities.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\bin\Debug\Epam.Task6.Entities.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\obj\Debug\Epam.Task6.LogicContracts.csprojAssemblyReference.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\obj\Debug\Epam.Task6.LogicContracts.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\obj\Debug\Epam.Task6.LogicContracts.csproj.CopyComplete
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\obj\Debug\Epam.Task6.LogicContracts.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.LogicContracts\obj\Debug\Epam.Task6.LogicContracts.pdb

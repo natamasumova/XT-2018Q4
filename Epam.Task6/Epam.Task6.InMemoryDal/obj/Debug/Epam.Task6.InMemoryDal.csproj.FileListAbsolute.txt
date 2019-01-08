@@ -1,0 +1,11 @@
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.InMemoryDal.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.InMemoryDal.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.DalContracts.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.Entities.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.DalContracts.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\bin\Debug\Epam.Task6.Entities.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\obj\Debug\Epam.Task6.InMemoryDal.csprojAssemblyReference.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\obj\Debug\Epam.Task6.InMemoryDal.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\obj\Debug\Epam.Task6.InMemoryDal.csproj.CopyComplete
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\obj\Debug\Epam.Task6.InMemoryDal.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.InMemoryDal\obj\Debug\Epam.Task6.InMemoryDal.pdb

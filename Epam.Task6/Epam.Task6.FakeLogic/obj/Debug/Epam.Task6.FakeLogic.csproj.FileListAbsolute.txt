@@ -1,0 +1,11 @@
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.FakeLogic.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.FakeLogic.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.Entities.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.LogicContracts.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.Entities.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\bin\Debug\Epam.Task6.LogicContracts.pdb
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\obj\Debug\Epam.Task6.FakeLogic.csprojAssemblyReference.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\obj\Debug\Epam.Task6.FakeLogic.csproj.CoreCompileInputs.cache
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\obj\Debug\Epam.Task6.FakeLogic.csproj.CopyComplete
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\obj\Debug\Epam.Task6.FakeLogic.dll
+D:\EPAM training\Code\Epam.Task6\Epam.Task6.FakeLogic\obj\Debug\Epam.Task6.FakeLogic.pdb
